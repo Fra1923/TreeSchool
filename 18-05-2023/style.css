@@ -1,27 +1,20 @@
 body {
-    background-color: white;
-background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);}
-.main_title {padding: 20px;
-    width: 20px;
-}
+    background-color: white;}
+
+
 .navbar {
     display: flex;
-    border: 2px solid silver;
-    padding: 20px 10px 15px 15px;
-    background-color:white;
-background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
-
-    border-radius: 24px;
+    padding: 30px 10px 15px 0px;
+    background-color:white;border-radius: 24px;
     padding-left: 20px;
     font-family: 'Inconsolata', monospace;
-    justify-content: space-evenly;
+    justify-content: right;
     gap: 5px;
     align-items: center;
 }
 .link {list-style-type: none;
-display: flex;;
-width: 100%;
-justify-content: space-evenly;}
+display: contents;
+width: 100%;}
 
 .canetto {
     
@@ -53,11 +46,9 @@ font-family: 'Inconsolata', monospace;}
 *{margin-left: 0cm;}
 
 .footer_ {display: flex;
-    border: 2px solid silver;
+    border-radius: 2px solid silver;
     padding: 10px 10px 15px 15px;
-    background-color: #4158D0;
-background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
-
+    background-color: white;
     border-radius: 24px;
     padding-left: 20px;
     font-family: 'Inconsolata', monospace;
